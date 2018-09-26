@@ -14,3 +14,5 @@ What background picture would you like to use?bg.gif <br>
 What picture would you like to overlay?mario.gif <br>
 How far to the right do you want the image?50 <br>
 How far to the left do you want the image?50
+
+This is the end!
